@@ -23,7 +23,7 @@ const CoinData =(props)=>{
   let homepageAddress = [];
 
    if(coinInfo.links == undefined){
-      console.log("wiaitng to get the results")
+      console.log("waiting to get the results")
    }else{
        console.log(coinInfo.links.homepage)
        homepageAddress.push(coinInfo.links.homepage);
