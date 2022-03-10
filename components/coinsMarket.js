@@ -39,6 +39,7 @@ return(
                     <TableCell>Current Price</TableCell>
                     <TableCell>High 24Hrs Price</TableCell>
                     <TableCell>Low 24hrs Price</TableCell>
+                    <TableCell>Low 26rs Price</TableCell>
                     </TableRow>
                 </TableHead>
                 <TableBody>
